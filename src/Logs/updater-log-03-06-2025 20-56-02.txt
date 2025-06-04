@@ -1,0 +1,4 @@
+08:56:02 PM INFO: Launching TAJ Updater...
+08:56:02 PM SEVERE: Missing TAJ Updates folder! Exiting.
+Exception in thread "main" java.lang.NullPointerException
+	at Main.main(Main.java:44)
